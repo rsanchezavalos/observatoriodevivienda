@@ -1,0 +1,6 @@
+[submodule "lib/billboard"]
+	path = lib/billboard
+	url = git://github.com/jedfoster/Readmore.js.git
+[submodule "lib/scroll"]
+	path = lib/scroll
+	url = git://github.com/flesler/jquery.scrollTo.git
